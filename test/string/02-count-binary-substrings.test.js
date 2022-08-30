@@ -1,3 +1,7 @@
+/**
+ * @description Count Binary Substrings
+ * @author Heidi Codes
+ */
 import subStr from '../../code/string/02-count-binary-substrings'
 
 test('subStr(00110011)', () => {
