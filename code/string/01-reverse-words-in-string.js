@@ -5,7 +5,6 @@
  */
 
 // /**
-//  * String.prototype.split + Array.prototype.map + Array.prototype.reverse + Array.prototype.join
 //  * @param {string} s
 //  * @return {string}
 //  */

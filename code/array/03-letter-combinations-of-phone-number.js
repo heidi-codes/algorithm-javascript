@@ -5,7 +5,6 @@
  */
 
 /**
- * Array.prototype.splice
  * @param {string} digits
  * @return {string[]}
  */
