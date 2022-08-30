@@ -1,6 +1,6 @@
 /**
  * @lc app=leetcode.cn id=605 lang=javascript
- * @description Can Place Flowers
+ * @description Place Flowers
  * @author Heidi Codes
  */
 

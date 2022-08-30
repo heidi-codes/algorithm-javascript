@@ -1,5 +1,5 @@
 /**
- * @description Gray Code
+ * @description Gray Codes
  * @author Heidi Codes
  */
 

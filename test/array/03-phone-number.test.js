@@ -2,7 +2,7 @@
  * @description Letter Combinations of a Phone Number
  * @author Heidi Codes
  */
-import telComb from '../../code/array/03-letter-combinations-of-phone-number'
+import telComb from '../../code/array/03-phone-number'
 
 test('telComb:23', () => {
   expect(telComb('23')).toEqual([

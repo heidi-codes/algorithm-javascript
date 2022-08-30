@@ -1,6 +1,6 @@
 /**
  * @lc app=leetcode.cn id=89 lang=javascript
- * @description Gray Code
+ * @description Gray Codes
  * @author Heidi Codes
  */
 
@@ -21,6 +21,7 @@ export default (n) => {
         result[i] = `0${prev[i]}`
         result[max - i] = `1${prev[i]}`
       }
+
       return result
     }
   }

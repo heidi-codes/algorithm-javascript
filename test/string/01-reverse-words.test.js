@@ -2,7 +2,7 @@
  * @description Reverse Words in a String
  * @author Heidi Codes
  */
-import revertByWorld from '../../code/string/01-reverse-words-in-string'
+import revertByWorld from '../../code/string/01-reverse-words'
 
 test("revertByWorld:Let's take LeetCode contest", () => {
   expect(revertByWorld("Let's take LeetCode contest")).toBe(

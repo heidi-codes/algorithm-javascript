@@ -1,5 +1,5 @@
 /**
- * @description Can Place Flowers
+ * @description Place Flowers
  * @author Heidi Codes
  */
 import flower from '../../code/array/05-place-flowers'
