@@ -18,6 +18,7 @@ export default (arr) => {
   for (let v of Object.values(tmp)) {
     group.push(v)
   }
+  // The array is traversed only once, avoiding the time-consuming sorting and regularization.
   let gcd = (a, b) => {
     if (b === 0) {
       return a
